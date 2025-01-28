@@ -13,9 +13,12 @@ langchain = "^0.3.11"
 langchain-openai = "^0.2.12"
 langgraph = "^0.2.58"
 langchain-core = "^0.3.24"
+<<<<<<< HEAD
 semantic-kernel = "^1.17.0"
 ipykernel = "^6.29.5"
 psutil = "^6.1.1"
+=======
+>>>>>>> d86e86cc803606f3ba378babfdc20c971388c5c6
 
 
 [tool.poetry.group.dev.dependencies]
